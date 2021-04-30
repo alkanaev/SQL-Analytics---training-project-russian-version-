@@ -1,0 +1,1 @@
+# SQL-Analytics---training-project-russian-version-
