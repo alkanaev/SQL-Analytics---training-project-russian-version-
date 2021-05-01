@@ -1,6 +1,6 @@
 # SQL Analytics - training project (russian version)
 
-Link: https://colab.research.google.com/drive/1RkuuA30ZtGCMgE61Tr3kPLYbLjgOcogl?usp=sharing
+Link: https://colab.research.google.com/drive/1tHMGN9Ve5PB4-mgfX-ICv6Fqv0oCiZpu?usp=sharing
 
 The task is to prepare an analytical report for the HR department. Draw up recommendations on the recruitment strategy, as well as on interaction with existing employees.<br>
 The database contains a set of tables that contain data about the employees of the fictitious company. All analytics should be done using SQL (subsequently, the data can be visualized, however, the final dataframes for the graphs must also be prepared using SQL).<br>
